@@ -17,7 +17,12 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more infCoding Ninja Ract Dropdown Component
+￼Dropdown
+you will get placed
+Maybe you got placed
+no skill test no placement
+You selected: no skill test no placementormation.
 
 ### `npm run build`
 
